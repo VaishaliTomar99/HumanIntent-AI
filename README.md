@@ -61,3 +61,9 @@ The following graphs were generated during training:
 ```md
 ![Training_Metrics](assets/training_metrics.png)
 
+##🎥 Streamlit Dashboard
+The project includes an interactive Streamlit dashboard for visualizing predictions and performing real-time inference.
+📌 *(Add the Streamlit dashboard screenshot here)*
+```md
+![Streamlit Dashboard](assets/streamlit_dashboard.png)
+
