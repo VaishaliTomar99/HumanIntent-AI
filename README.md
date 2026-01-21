@@ -59,4 +59,5 @@ The following graphs were generated during training:
 
 📌 *(Add the training metrics image here)*  
 ```md
-![Training Metrics](assest/graph.png)
+![Training_Metrics](assets/training_metrics.png)
+
