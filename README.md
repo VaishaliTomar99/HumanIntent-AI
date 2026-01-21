@@ -57,6 +57,6 @@ The following graphs were generated during training:
 - Training Loss vs Epochs
 - Training Accuracy vs Validation Accuracy
 
-📌 **  
-Uploaded image```md
-![Training Metrics](assets/training_metrics.png)
+📌 *(Add the training metrics image here)*  
+```md
+![Training Metrics](assest/graph.png)
